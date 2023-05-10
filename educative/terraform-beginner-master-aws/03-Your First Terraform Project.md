@@ -4,7 +4,7 @@
 
 ./projects/**03_your_first_terraform_project/main.tf**
 
-```json
+```text
 provider "aws" {
   region = "ap-southeast-1"
 }
