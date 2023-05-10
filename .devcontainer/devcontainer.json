@@ -15,7 +15,8 @@
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
 				"yzhang.markdown-all-in-one",
-				"HashiCorp.terraform"
+				"HashiCorp.terraform",
+				"bierner.markdown-emoji"
 			]
 		}
 	}
